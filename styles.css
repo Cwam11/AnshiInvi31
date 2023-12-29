@@ -86,7 +86,7 @@ img {
 
 @media only screen and (max-width: 414px) and (max-height: 736px) {
     body {
-        height: 90vh;
+        height: 50vh;
     }
 
     .header_text {
@@ -94,7 +94,7 @@ img {
     }
 
     img {
-        height: 60vh;
+        height: 30vh;
     }
 
     .btn {

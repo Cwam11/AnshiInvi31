@@ -3,9 +3,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #79476fcc;
 }
 
+img {
+    border-radius: 15%;
+    margin-bottom: 20px;
+  }
+  
 .header_text {
     font-family: 'Nunito';
     font-size: 50px;
